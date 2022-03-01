@@ -1,6 +1,8 @@
 ### Hi there 👋
 
 
+![image](dino.gif)
+
 - 🔭 I'm learning Data Science.
 - 🤔 Looking to collaborate on Machine Learning.
 - 📫 Feel free to [Email](mailto:sedeeq.alaa@gmail.com) Me!
