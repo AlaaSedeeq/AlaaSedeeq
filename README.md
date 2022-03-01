@@ -4,7 +4,7 @@
 ![image](dino.gif)
 
 - 🔭 I'm learning Data Science.
-- 🤔 Looking to collaborate on Machine Learning.
+- 🤔 Looking to collaborate on Machine Learning Project.
 - 📫 Feel free to [Email](mailto:sedeeq.alaa@gmail.com) Me!
 - 🌱 I’m currently working as a freelancer at UpWork
 
