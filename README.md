@@ -29,4 +29,4 @@
 
 
 
-![github contribution grid snake animation](https://raw.githubusercontent.com/Eurus-Holmes/Eurus-Holmes/output/github-contribution-grid-snake.svg)
+![github contribution grid snake animation](github-contribution-grid-snake.svg)
