@@ -6,11 +6,11 @@
 - 🤔 Looking to collaborate on Machine Learning Project.
 - 📫 Feel free to [Email](mailto:sedeeq.alaa@gmail.com) Me!
 - 🌱 I’m currently working as a freelancer at UpWork
-<p align="center"> 
+<!-- <p align="center"> 
   Visitors:<br>
   <img src="https://profile-counter.glitch.me/AlaaSedeeq/count.svg" />
 </p>
-
+ -->
 
 <img src="dino.gif" width="1000"></img>
 
