@@ -6,6 +6,10 @@
 - 🤔 Looking to collaborate on Machine Learning Project.
 - 📫 Feel free to [Email](mailto:sedeeq.alaa@gmail.com) Me!
 - 🌱 I’m currently working as a freelancer at UpWork
+- Follow Me At&nbsp;&nbsp;&nbsp;&nbsp;<a href="https://www.linkedin.com/in/alaa-sedeeq/"><img height="32" width="32" src="https://upload.wikimedia.org/wikipedia/commons/thumb/c/ca/LinkedIn_logo_initials.png/600px-LinkedIn_logo_initials.png" /></a>&nbsp;&nbsp;&nbsp;&nbsp;<a href="https://twitter.com/sedeeq_alaa"><img height="32" width="32" src="https://1000logos.net/wp-content/uploads/2017/06/Twitter-Logo.png" /></a>&nbsp;&nbsp;&nbsp;&nbsp;
+<a href="https://www.kaggle.com/alaasedeeq"><img height="32" width="32" src="https://cdn3.iconfinder.com/data/icons/logos-and-brands-adobe/512/189_Kaggle-512.png" /></a>&nbsp;&nbsp;&nbsp;&nbsp;
+</div>
+
 <!-- <p align="center"> 
   Visitors:<br>
   <img src="https://profile-counter.glitch.me/AlaaSedeeq/count.svg" />
@@ -29,15 +33,6 @@
   <img width="48%" src ="https://activity-graph.herokuapp.com/graph?username=alaasedeeq&bg_color=ffffff&color=0400ff&line=0400ff&point=03d3d&area=true&hide_border=true" >
   <img width="48%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=alaasedeeq&layout=compact&count_private=true&bg_color=30,e96443,904e95&title_color=fff&text_color=fff">  
 </p>
-
-
-
-## Follow Me At
-
-<a href="https://www.linkedin.com/in/alaa-sedeeq/"><img height="32" width="32" src="https://upload.wikimedia.org/wikipedia/commons/thumb/c/ca/LinkedIn_logo_initials.png/600px-LinkedIn_logo_initials.png" /></a>&nbsp;&nbsp;&nbsp;&nbsp;
-<a href="https://twitter.com/sedeeq_alaa"><img height="32" width="32" src="https://1000logos.net/wp-content/uploads/2017/06/Twitter-Logo.png" /></a>&nbsp;&nbsp;&nbsp;&nbsp;
-<a href="https://www.kaggle.com/alaasedeeq"><img height="32" width="32" src="https://cdn3.iconfinder.com/data/icons/logos-and-brands-adobe/512/189_Kaggle-512.png" /></a>&nbsp;&nbsp;&nbsp;&nbsp;
-</div>
 
 <!-- ![github contribution grid snake animation](github-contribution-grid-snake.svg) -->
 
