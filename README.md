@@ -39,10 +39,10 @@
 <a href="https://www.kaggle.com/alaasedeeq"><img height="32" width="32" src="https://cdn3.iconfinder.com/data/icons/logos-and-brands-adobe/512/189_Kaggle-512.png" /></a>&nbsp;&nbsp;&nbsp;&nbsp;
 </div>
 
-![github contribution grid snake animation](github-contribution-grid-snake.svg)
+<!-- ![github contribution grid snake animation](github-contribution-grid-snake.svg) -->
 
 
 <div align="center">
   
-<b>Thank's for visiting my Github Profile ❤️</b>
+<b>Thank's for visiting my Github Profile</b>
 </div>
