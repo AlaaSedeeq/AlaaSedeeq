@@ -1,4 +1,4 @@
-<h1 align="center">Hi 👋, I'm Alaa Sedeeq </h1>
+<h1 align="center">Hi, I'm Alaa Sedeeq </h1>
 
 
 - 🔭 I'm learning Data Science.
@@ -12,7 +12,7 @@
 </p>
  -->
 
-<img src="dino.gif" width="1000"></img>
+<!-- <img src="dino.gif" width="1000"></img> -->
 
 <!-- <h3 align="left">Connect with me:</h3>
 <p align="left"> -->
