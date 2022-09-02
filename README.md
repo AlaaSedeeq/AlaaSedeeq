@@ -2,7 +2,7 @@
 
 
 - 🔭 I'm learning Data Science.
-- 📄 Know about my experiences look at my [CV](https://drive.google.com/file/d/1hNX0f0CVq-asLz6LbY9GAZhZU5u7i4uw/view?usp=sharing)
+- 📄 Know about my experiences look at my [CV](https://drive.google.com/file/d/1y5haBt0cg4ddKjaPWjGuacyZc437XWSU/view?usp=sharing)
 - 🤔 Looking to collaborate on Machine Learning Project.
 - 📫 Feel free to [Email](mailto:sedeeq.alaa@gmail.com) Me!
 - 🌱 I’m currently working as a freelancer at UpWork
