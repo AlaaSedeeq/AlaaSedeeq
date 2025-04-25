@@ -6,7 +6,7 @@
   <a href="https://www.kaggle.com/alaasedeeq"><img src="https://img.shields.io/badge/Kaggle-20BEFF?style=for-the-badge&logo=kaggle&logoColor=white" alt="Kaggle"/></a>
   <a href="mailto:sedeeq.alaa@gmail.com"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email"/></a>
 </p>
-
+<!-- 
 ### 👨‍💻 About Me
 - 🔬 Data Science enthusiast with a passion for Machine Learning
 - 💼 Currently working as a freelance Data Scientist on Upwork
@@ -25,11 +25,11 @@ skills = {
 
 ### 📫 Let's Connect!
 <!--- 💼 View my professional experience on my [CV](https://drive.google.com/file/d/1y5haBt0cg4ddKjaPWjGuacyZc437XWSU/view?usp=sharing)-->
-- 📧 Reach out to me via [Email](mailto:sedeeq.alaa@gmail.com)
+<!--- - 📧 Reach out to me via [Email](mailto:sedeeq.alaa@gmail.com)
 - 🌐 Connect with me on [LinkedIn](https://www.linkedin.com/in/alaa-sedeeq/)
-- 📊 Check out my work on [Kaggle](https://www.kaggle.com/alaasedeeq)
+- 📊 Check out my work on [Kaggle](https://www.kaggle.com/alaasedeeq) -->
 
----
+<!--- ---
 <p align="center">
   <i>Let's turn data into insights together! 📊✨</i>
 </p>
